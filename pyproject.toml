@@ -1,0 +1,7 @@
+[project]
+name = "sign-lang-agent"
+version = "0.1.0"
+description = "An agent that provides convenient interaction for deaf-mute people"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
