@@ -7,6 +7,7 @@ CHECKPOINTS_DIR = ROOT / "checkpoints"
 
 CHECKPOINTS_DIR.mkdir(exist_ok=True, parents=True)
 
+
 if __name__ == "__main__":
     from loguru import logger
 
